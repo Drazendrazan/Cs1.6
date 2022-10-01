@@ -1,6 +1,5 @@
-Counter-Strike 1.6 - WaRzOnE v1.6 Final
+Counter-Strike 1.6 -
 
-http://CSwarzone.com
 
 FEATURES
 
@@ -30,6 +29,8 @@ Version 1.6 Final
 
 * Now also compatible with Windows 8/8.1
 * Updated dproto to latest version v0.9.356
+* New bots ct and t
+* New Map Snow Pool
 
 Version 1.6
 
@@ -91,4 +92,4 @@ Version 1.0
 
 * Initial Release
 
-Copyright © 2011-2014  CSwarzone
+Copyright ï¿½ 2011-2014

@@ -4,3 +4,13 @@ L 10/01/2022 - 15:01:25: [CSTRIKE] GiveDefaultItems is not available - native cs
 L 10/01/2022 - 15:01:25: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
 L 10/01/2022 - 15:01:25: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
 L 10/01/2022 - 15:01:25: [CSX] Could not load csstats file: cstrike\
+L 10/01/2022 - 15:53:12: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 10/01/2022 - 15:53:12: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 10/01/2022 - 15:53:12: -------- Mapchange to hs_metalworks --------
+L 10/01/2022 - 15:53:12: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 10/01/2022 - 15:53:12: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 10/01/2022 - 15:53:12: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 10/01/2022 - 15:53:12: [CSTRIKE] sv global variable is not available
+L 10/01/2022 - 15:53:12: [CSX] Could not load csstats file: cstrike\
+L 10/01/2022 - 15:53:14: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 15:53:15: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
