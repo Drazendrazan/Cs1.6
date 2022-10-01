@@ -1,0 +1,18 @@
+//Details for dm_river_storm_night
+
+003		detail/hellstrike/Rock01	2.0	2.0
+004		detail/hellstrike/Rock01	2.0	2.0
+005		detail/hellstrike/Grass01	2.0	2.0
+006		detail/hellstrike/Rock01	4.0	4.0
+007		detail/hellstrike/Concrete01	1.0	2.0
+245		detail/hellstrike/Metal01	2.0	2.0
+312		detail/hellstrike/Door01	2.0	2.0
+335		detail/hellstrike/Floor01	2.0	2.0
+411		detail/hellstrike/Floor01	2.0	2.0
+429		detail/hellstrike/Concrete01	2.0	2.0
+553		detail/hellstrike/Concrete01	2.0	2.0
+663		detail/hellstrike/Wood01	2.0	2.0
+720		detail/hellstrike/Concrete01	2.0	2.0
+721		detail/hellstrike/Wall01	2.0	2.0
+723		detail/hellstrike/Wall01	2.0	2.0
+729		detail/hellstrike/Brick01	0.5	2.0

@@ -1,0 +1,24 @@
+//Details for hs_river_storm
+
+hsrs_build01		detail/hellstrike/Wall01	4.0	4.0
+hsrs_build02		detail/hellstrike/Wall01	4.0	4.0
+hsrs_chbath		detail/hellstrike/Door01	2.0	2.0
+hsrs_concrete01		detail/hellstrike/Concrete01	4.0	2.0
+hsrs_concrete02		detail/hellstrike/Concrete01	4.0	2.0
+hsrs_concrete03		detail/hellstrike/Floor02	2.0	2.0
+hsrs_concrete05		detail/hellstrike/Concrete01	4.0	2.0
+hsrs_cont01		detail/hellstrike/Metal02	4.0	2.0
+hsrs_cont02		detail/hellstrike/Metal02	2.0	2.0
+hsrs_door01		detail/hellstrike/Door01	1.0	2.0
+hsrs_fence01		detail/hellstrike/Metal02	2.0	2.0
+hsrs_floor01		detail/hellstrike/Floor02	2.0	2.0
+hsrs_generic		detail/hellstrike/Concrete01	2.0	2.0
+hsrs_grass01		detail/hellstrike/Ground01	4.0	4.0
+hsrs_grass02		detail/hellstrike/Ground01	4.0	4.0
+hsrs_plaster01		detail/hellstrike/Concrete01	4.0	2.0
+hsrs_rolldoor		detail/hellstrike/Metal01	2.0	2.0
+hsrs_street		detail/hellstrike/Floor02	2.0	2.0
+hsrs_wmetal01		detail/hellstrike/Metal02	2.0	2.0
+hsrs_wmetal02		detail/hellstrike/Metal02	2.0	2.0
+hsrs_wood01		detail/hellstrike/Wood01	4.0	2.0
+hsrs_wood02		detail/hellstrike/Wood02	1.0	0.25

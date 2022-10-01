@@ -1,0 +1,17 @@
+BreakPoint - Defusion
+**********************************************
+By Omargaliev "marikcool" || "mcc"  Marat
+Special thx Shumkov "KAzaMA" Dmitriy
+Contact: http://www.novalink.su || http://www.novalink.kz
+E-mail: marikcool@mail.ru
+Map for NGL - Counter-Strike League.
+Remake by DVDS for Hellmonja
+**********************************************
+
+Counter-Terrorists: Defense terrorists attack.
+Terrorists: Destroy the box locations.
+
+Other Notes: There are 2 targets 
+in this mission.
+
+(Press FIRE to continue)                

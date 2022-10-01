@@ -1,0 +1,14 @@
+// overview description file for dm_river_storm_night.bsp
+
+global 
+{
+	ZOOM	1.34
+	ORIGIN	1118 	173	716
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_river_storm.bmp"
+	HEIGHT	-529
+}

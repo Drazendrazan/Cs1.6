@@ -1,0 +1,6 @@
+Loading default list of file types allowed
+Loading default list of filtered character sequences
+Stored list of file types allowed in 'extlist.ini'
+Stored list of filtered character sequences in 'cmdlist.ini'
+Saved original 'hw.dll' as 'hw.dll.orig'
+Successfully patched 'hw.dll'

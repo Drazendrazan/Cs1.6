@@ -1,0 +1,840 @@
+//----------------------------------------------------------------------------
+// BotProfile.db
+// Author: Michael S. Booth, Turtle Rock Studios (www.turtlerockstudios.com)
+//
+// This database defines bot "personalities". 
+// Feel free to edit it and define your own bots.
+//
+
+
+//----------------------------------------------------------------------------
+
+//
+// All profiles begin with this data and overwrite their own
+//
+Default
+	Skill = 50
+	Aggression = 100
+	ReactionTime = 0.3
+	AttackDelay = 0
+	Teamwork = 75
+	WeaponPreference = none
+	Cost = 0
+	Difficulty = NORMAL
+	VoicePitch = 100
+	Skin = 0
+End
+
+//----------------------------------------------------------------------------
+
+//
+// These templates inherit from Default and override with their values
+// The name of the template defines a type that is used by individual bot profiles
+//
+
+// weapon preference templates
+Template Rifle
+	WeaponPreference = m4a1
+	WeaponPreference = ak47
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template RifleT
+	WeaponPreference = ak47
+	WeaponPreference = m4a1
+	WeaponPreference = galil
+	WeaponPreference = famas
+	WeaponPreference = mp5
+End
+
+Template Punch
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template PunchT
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Sniper
+	WeaponPreference = awp
+	WeaponPreference = sg550
+	WeaponPreference = g3sg1
+	WeaponPreference = scout
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Power
+	WeaponPreference = m249
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Shotgun
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Shield
+	WeaponPreference = shield
+	WeaponPreference = m4a1			// in case shield is disallowed
+	WeaponPreference = ak47
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Spray
+	WeaponPreference = p90
+	WeaponPreference = tmp
+	WeaponPreference = mac10
+	WeaponPreference = mp5
+End
+
+
+// skill templates
+Template Elite
+	Skill = 100
+	Aggression = 100
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 85
+End
+
+Template Expert
+	Skill = 90
+	Aggression = 100
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 88
+End
+
+Template VeryHard
+	Skill = 80
+	Aggression = 100
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 92
+End
+
+Template Hard
+	Skill = 75
+	Aggression = 100
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 94
+End
+
+Template Tough
+	Skill = 60
+	Aggression = 100
+	ReactionTime = 0.3
+	AttackDelay = 0.35
+	Cost = 2
+	Difficulty = NORMAL+HARD
+	VoicePitch = 96
+End
+
+Template Normal
+	Skill = 50
+	Aggression = 100
+	ReactionTime = 0.4
+	AttackDelay = 0.7
+	Cost = 2
+	Difficulty = NORMAL
+End
+
+Template Fair
+	Skill = 25
+	Aggression = 100
+	ReactionTime = 0.4
+	AttackDelay = 1.0
+	Cost = 1
+	Difficulty = EASY+NORMAL
+	VoicePitch = 105
+End
+
+Template Easy
+	Skill = 0
+	Aggression = 100
+	ReactionTime = 0.5
+	AttackDelay = 1.5
+	Cost = 1
+	Difficulty = EASY
+	VoicePitch = 110
+End
+
+//----------------------------------------------------------------------------
+//
+// These are the individual bot profiles, which inherit first from 
+// Default and then the specified Template(s), in order
+//
+
+Elite+Rifle R-Duterte
+	//~Skin = 5
+	VoicePitch = 95
+End
+
+Elite+Spray J-Wick
+	//~Skin = 2
+	VoicePitch = 105
+End
+
+Elite+Shotgun A-Luna
+	//~Skin = 4
+	VoicePitch = 84
+End
+
+Elite+Punch C-Lee
+	//~Skin = 5
+	VoicePitch = 110
+End
+
+Elite+Power D-Ashley
+	//~Skin = 2
+	VoicePitch = 80
+End
+
+Elite+PunchT M-Ghandi
+	//~Skin = 4
+	VoicePitch = 90
+End
+
+Elite+Rifle Robby-the-Sheeth
+	//~Skin = 2
+	VoicePitch = 98
+End
+
+Elite+RifleT D-Doss
+	//~Skin = 1
+	VoicePitch = 96
+End
+
+Elite+Sniper S-Hayha
+	//~Skin = 3
+	VoicePitch = 105
+End
+
+Elite+RifleT Mad-Malcolm
+	//~Skin = 5
+	VoicePitch = 84
+End
+
+Elite+PunchT R-Benavidez
+	//~Skin = 4
+	VoicePitch = 86
+End
+
+
+//----------------------------------------
+
+Expert+RifleT S-Hussein
+	VoicePitch = 85
+End
+
+Expert+Rifle A-Azrael
+	VoicePitch = 100
+End
+
+Expert+Punch F-Castro
+	VoicePitch = 95
+End
+
+Expert+Sniper M-Gaddafi
+	Cost = 5
+	VoicePitch = 115
+End
+
+Expert+Shotgun J-Stalin
+	VoicePitch = 87
+End
+
+Expert+Rifle F-Castro
+	VoicePitch = 91
+End
+
+Expert+Rifle O-BinLaden
+	VoicePitch = 101
+End
+
+Expert A-Hitler
+	VoicePitch = 112
+End
+
+Expert+PunchT V-Putin
+	VoicePitch = 99
+End
+
+Expert+Rifle G-Khan
+	VoicePitch = 100
+End
+
+//----------------------------------------
+
+VeryHard+Power C-Manson
+	//~Skin = 5
+	VoicePitch = 110
+End
+
+VeryHard+Sniper K-Il-sung
+	//~Skin = 3
+	VoicePitch = 93
+End
+
+VeryHard+Rifle K-Jong-il
+	//~Skin = 2
+	VoicePitch = 100
+End
+
+VeryHard+RifleT K-Jong-un
+	//~Skin = 4
+	VoicePitch = 86
+End
+
+
+//----------------------------------------
+
+Hard+Rifle M-Myers
+	//~Skin = 5
+	VoicePitch = 95
+End
+
+Hard+RifleT Malcolm-X
+	//~Skin = 2
+	VoicePitch = 90
+End
+
+Hard+Spray CORNHOLIO
+	//~Skin = 4
+	VoicePitch = 102
+End
+
+Hard+Shotgun C-Guevara
+	//~Skin = 1
+	VoicePitch = 98
+End
+
+Hard+RifleT F-Kreuger
+	//~Skin = 5
+	VoicePitch = 96
+End
+
+Hard+Punch J-Vorhees
+	//~Skin = 4
+	VoicePitch = 103
+End
+
+Hard+PunchT Hashmeer
+	//~Skin = 1
+	VoicePitch = 105
+End
+
+Hard+Rifle J-Hendrix
+	//~Skin = 2
+	VoicePitch = 97
+End
+
+Hard+Rifle T-Araya
+	//~Skin = 5
+	VoicePitch = 84
+End
+
+Hard+PunchT A-Bonifacio
+	//~Skin = 1
+	VoicePitch = 90
+End
+
+Hard+Rifle Y-Singh-Yadav
+	//~Skin = 2
+	VoicePitch = 98
+End
+
+Hard+Sniper Mad-Jack
+	//~Skin = 3
+	VoicePitch = 110
+End
+
+Hard+Spray A-York
+	//~Skin = 4
+	VoicePitch = 103
+End
+
+Hard+Rifle A-Murphy
+	//~Skin = 2
+	VoicePitch = 110
+End
+
+//----------------------------------------
+
+Tough+Sniper M-Urban
+	//~Skin = 3
+	VoicePitch = 120
+End
+
+Tough+Rifle M-Fitzmaurice
+	//~Skin = 1
+	VoicePitch = 100
+End
+
+Tough+Rifle JP-Bobo
+	//~Skin = 2
+	VoicePitch = 104
+End
+
+Tough+RifleT D-Vlug
+	//~Skin = 4
+	VoicePitch = 98
+End
+
+Tough R-Scott
+	//~Skin = 1
+	VoicePitch = 100
+End
+
+Tough+Rifle M-Savic
+	//~Skin = 2
+	VoicePitch = 102
+End
+
+Tough+Shotgun B-Salomon
+	//~Skin = 4
+	VoicePitch = 95
+End
+
+Tough+Rifle A-Carton-de-Wiart
+	//~Skin = 1
+	VoicePitch = 95
+End
+
+Tough+RifleT J-Ripley
+	//~Skin = 2
+	VoicePitch = 110
+End
+
+Tough+Rifle RJ-Dio
+	//~Skin = 4
+	VoicePitch = 112
+End
+
+Tough D-Mustaine
+	//~Skin = 1
+	VoicePitch = 90
+End
+
+Tough+Rifle P-Anselmo
+	//~Skin = 2
+	VoicePitch = 115
+End
+
+Tough+RifleT Nergal
+	//~Skin = 4
+	VoicePitch = 107
+End
+
+Tough+Rifle B-Dailor
+	//~Skin = 2
+	VoicePitch = 102
+End
+
+Tough Rex
+	//~Skin = 1
+	VoicePitch = 98
+End
+
+Tough+Rifle  I-McCollum
+	//~Skin = 2
+	VoicePitch = 100
+End
+
+Tough+RifleT V-Rattlehead
+	//~Skin = 4
+	VoicePitch = 95
+End
+
+Tough+Rifle M-Manson
+	//~Skin = 1
+	VoicePitch = 86
+End
+
+Tough+RifleT JM-Browning
+	//~Skin = 2
+	VoicePitch = 100
+End
+
+Tough+Rifle Eddie-the-Head
+	//~Skin = 4
+	VoicePitch = 95
+End
+
+//----------------------------------------
+
+Normal+Rifle R-Zombie
+	//~Skin = 1
+	VoicePitch = 105
+End
+
+Normal+PunchT B-Artadi
+	//~Skin = 2
+	VoicePitch = 90
+End
+
+Normal M-Townley
+	//~Skin = 3
+	VoicePitch = 100
+End
+
+Normal T-Philips
+	//~Skin = 4
+	VoicePitch = 107
+End
+
+Normal+Shield B-Snider
+	//~Skin = 1
+	VoicePitch = 104
+End
+
+Normal D-Snider
+	//~Skin = 2
+	VoicePitch = 110
+End
+
+Normal Zohan
+	//~Skin = 3
+	VoicePitch = 95
+End
+
+Normal A-Degtyarev
+	//~Skin = 4
+	VoicePitch = 112
+End
+
+Normal Crowbar-Jones
+	//~Skin = 1
+	VoicePitch = 111
+End
+
+Normal+Sniper Strelok
+	//~Skin = 3
+	VoicePitch = 115
+End
+
+Normal Jesus-Commando
+	//~Skin = 4
+	VoicePitch = 112
+End
+
+Normal Ebola-Hunter
+	//~Skin = 1
+	VoicePitch = 96
+End
+
+Normal Aladeen
+	//~Skin = 2
+	VoicePitch = 98
+End
+
+Normal Nuclear-Nadal
+	//~Skin = 4
+	VoicePitch = 110
+End
+
+Normal C-Norris
+	//~Skin = 1
+	VoicePitch = 95
+End
+
+Normal+RifleT Bruce-U
+	//~Skin = 2
+	VoicePitch = 100
+End
+
+Normal Capt-Alex
+	//~Skin = 4
+	VoicePitch = 99
+End
+
+Normal Tiger-Mafia
+	//~Skin = 3
+	VoicePitch = 98
+End
+
+Normal JG-Tyler
+	//~Skin = 1
+	VoicePitch = 105
+End
+
+Normal W-White
+	//~Skin = 2
+	VoicePitch = 115
+End
+
+Normal Toolbox-Jones
+	//~Skin = 3
+	VoicePitch = 110
+End
+
+Normal Hard-Larry
+	//~Skin = 4
+	VoicePitch = 92
+End
+
+//----------------------------------------
+
+Fair Sgt-Slaughter
+	VoicePitch = 110
+End
+
+Fair Uncle-Benon
+	VoicePitch = 100
+End
+
+Fair J-Rambo
+	VoicePitch = 99
+End
+
+Fair J-Matrix
+	VoicePitch = 120
+End
+
+Fair H-Fleming
+	VoicePitch = 111
+End
+
+Fair W-VanDeMerwe
+	VoicePitch = 98
+End
+
+Fair M-Payne
+	VoicePitch = 112
+End
+
+Fair E-Draven
+	VoicePitch = 90
+End
+
+Fair B-Dynamite
+	VoicePitch = 120
+End
+
+Fair G-Freeman
+	VoicePitch = 118
+End
+
+Fair S-Dante
+	VoicePitch = 116
+End
+
+Fair K-Fury
+	VoicePitch = 114
+End
+
+Fair N-Angel
+	VoicePitch = 110
+End
+
+Fair M-Rockatansky
+	VoicePitch = 98
+End
+
+Fair A-MacGyver
+	VoicePitch = 92
+End
+
+Fair W-Wilson
+	VoicePitch = 113
+End
+
+Fair Romp
+	VoicePitch = 114
+End
+
+Fair A-Williams
+	VoicePitch = 115
+End
+
+Fair J-English
+	VoicePitch = 100
+End
+
+Fair Blade
+	VoicePitch = 102
+End
+
+Fair L-Jenkins
+	VoicePitch = 98
+End
+
+Fair T-Montana
+	VoicePitch = 96
+End
+
+Fair D-Nukem
+	VoicePitch = 94
+End
+
+//----------------------------------------
+
+Easy T-Vercetti
+	VoicePitch = 100
+End
+
+Easy S-Snake
+	VoicePitch = 110
+End
+
+Easy CJ-Johnson
+	VoicePitch = 120
+End
+
+Easy H-Callahan
+	VoicePitch = 99
+End
+
+Easy J-MacClane
+	VoicePitch = 120
+End
+
+Easy T-Anderson
+	VoicePitch = 125
+End
+
+Easy N-Bellic
+	VoicePitch = 110
+End
+
+Easy N-Drake
+	VoicePitch = 100
+End
+
+Easy J-Shepard
+	VoicePitch = 112
+End
+
+Easy P-Kersey
+	VoicePitch = 121
+End
+
+Easy M-Chief
+	VoicePitch = 99
+End
+
+Easy D-Chavez
+	VoicePitch = 119
+End
+
+Easy J-Clark
+	VoicePitch = 118
+End
+
+Easy N-Dickstein
+	VoicePitch = 117
+End
+
+Easy J-Bond
+	VoicePitch = 116
+End
+
+Easy H-Hart
+	VoicePitch = 115
+End
+
+Easy F-Castle
+	VoicePitch = 114
+End
+
+Easy S-Wilson
+	VoicePitch = 112
+End
+
+Easy A-Simmons
+	VoicePitch = 111
+End
+
+Easy M-Flitcroft
+	VoicePitch = 110
+End
+
+Easy B-Plissken
+	VoicePitch = 109
+End
+
+Easy M-Cortez
+	VoicePitch = 108
+End
+
+Easy S-Sugimoto
+	VoicePitch = 122
+End
+
+Easy M-Fenix
+	VoicePitch = 120
+End
+
+Easy BJ-Blazkowicz
+	VoicePitch = 125
+End
+
+Easy J-Raynor
+	VoicePitch = 92
+End
+
+Easy B-Rizer
+	VoicePitch = 100
+End
+
+Easy T-Cassidy
+	VoicePitch = 102
+End
+
+Easy L-Bean
+	VoicePitch = 104
+End
+
+Easy Agent-47
+	VoicePitch = 108
+End
+
+Easy S-Fisher
+	VoicePitch = 95
+End
+
+Easy BA-Baracus
+	VoicePitch = 100
+End
+
+Easy I-Clarke
+	VoicePitch = 120
+End
+
+Easy J-Marston
+	VoicePitch = 112
+End
+
+Easy W-Sobchak
+	VoicePitch = 99
+End
+
+Easy F-Martin
+	VoicePitch = 110
+End

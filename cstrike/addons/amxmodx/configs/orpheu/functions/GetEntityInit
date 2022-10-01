@@ -1,0 +1,34 @@
+{
+    "name"       : "GetEntityInit",
+    "library"    : "engine",
+    "arguments"  :
+    [
+        {
+            "type" : "char *"
+        }
+    ],
+    "return" :
+    {
+        "type" : "pointer"
+    },
+    "identifiers":
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0x55,0x8B,"*",0xA1,"*","*","*","*",0x53,0x56,0x57,0x33,"*",0x85,0xC0,0x7E],
+            "info"  : "Dedicated Server"
+        },
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0xA1,"*","*","*","*",0x53,0x56,0x57,0x33,"*",0x85,0xC0,0x7E],
+            "info"  : "Listen Server"
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "GetEntityInit"
+        }
+    ]
+}

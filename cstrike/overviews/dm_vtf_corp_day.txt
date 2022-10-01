@@ -1,0 +1,14 @@
+// overview description file for dm_vtf_corp_day.bsp
+
+global 
+{
+	ZOOM	1.65
+	ORIGIN	1480 	1290	192
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_vtf_corp_day.bmp"
+	HEIGHT	-257
+}

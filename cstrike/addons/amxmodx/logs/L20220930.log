@@ -1,0 +1,72 @@
+L 09/30/2022 - 13:52:00: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 13:52:00: -------- Mapchange to dm_vtf_corp_day --------
+L 09/30/2022 - 13:52:00: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 13:52:00: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 13:52:00: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 13:52:00: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 13:58:33: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 13:58:33: -------- Mapchange to dm_vtf_corp_day --------
+L 09/30/2022 - 13:58:33: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 13:58:33: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 13:58:33: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 13:58:33: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 14:15:40: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 14:15:40: -------- Mapchange to hs_metalworks --------
+L 09/30/2022 - 14:15:40: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 14:15:40: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 14:15:40: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 14:15:40: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 14:34:58: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 14:34:58: -------- Mapchange to hs_river_storm --------
+L 09/30/2022 - 14:34:58: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 14:34:58: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 14:34:58: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 14:34:58: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 15:08:21: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 15:08:21: -------- Mapchange to hs_river_storm --------
+L 09/30/2022 - 15:08:21: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 15:08:21: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 15:08:21: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 15:08:21: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 15:27:20: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 15:27:20: -------- Mapchange to hs_river_storm_night --------
+L 09/30/2022 - 15:27:20: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 15:27:20: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 15:27:20: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 15:27:20: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 15:28:18: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 15:28:18: -------- Mapchange to csg_dust2 --------
+L 09/30/2022 - 15:28:18: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 15:28:18: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 15:28:18: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 15:28:18: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 15:28:21: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 15:28:21: -------- Mapchange to dm_vtf_corp_day --------
+L 09/30/2022 - 15:28:21: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 15:28:21: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 15:28:21: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 15:28:21: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 16:10:14: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 16:10:14: -------- Mapchange to dm_vtf_corp_day --------
+L 09/30/2022 - 16:10:14: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 16:10:14: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 16:10:14: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 16:10:14: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 16:10:55: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 16:10:55: -------- Mapchange to dm_river_storm --------
+L 09/30/2022 - 16:10:55: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 16:10:55: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 16:10:55: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 16:10:55: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 16:11:17: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 16:11:17: -------- Mapchange to dm_river_storm --------
+L 09/30/2022 - 16:11:17: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 16:11:17: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 16:11:17: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 16:11:17: [CSX] Could not load csstats file: cstrike\
+L 09/30/2022 - 16:30:50: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 09/30/2022 - 16:30:50: -------- Mapchange to dm_vtf_corp_day --------
+L 09/30/2022 - 16:30:50: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 09/30/2022 - 16:30:50: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 09/30/2022 - 16:30:50: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 09/30/2022 - 16:30:50: [CSX] Could not load csstats file: cstrike\

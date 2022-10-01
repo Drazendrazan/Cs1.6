@@ -1,0 +1,14 @@
+// overview description file for hs_metalworks.bsp
+
+global 
+{
+	ZOOM	1.56
+	ORIGIN	807	831	924
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/hs_metalworks.bmp"
+	HEIGHT	-48.00
+}

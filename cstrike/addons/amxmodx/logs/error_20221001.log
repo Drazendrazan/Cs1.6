@@ -1,0 +1,38 @@
+L 10/01/2022 - 15:01:34: Start of error session.
+L 10/01/2022 - 15:01:34: Info (map "hs_metalworks") (file "addons/amxmodx/logs/error_20221001.log")
+L 10/01/2022 - 15:01:34: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:34: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:34: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:34: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:38: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:38: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:38: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:38: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:40: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:40: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:40: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:40: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:42: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:42: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:42: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:42: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:45: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:45: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:45: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:45: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:47: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:47: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:47: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:47: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:48: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:48: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:48: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:48: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:50: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:50: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:50: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:50: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)
+L 10/01/2022 - 15:01:54: [CSTRIKE] Invalid player 1
+L 10/01/2022 - 15:01:54: [AMXX] Displaying debug trace (plugin "hstrike/hstrike_bass.amxx", version "1.9")
+L 10/01/2022 - 15:01:54: [AMXX] Run time error 10: native error (native "cs_set_user_money")
+L 10/01/2022 - 15:01:54: [AMXX]    [0] hstrike_bass.sma::RegisterHam_Bot (line 491)

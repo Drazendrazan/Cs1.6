@@ -1,0 +1,370 @@
+600
+selection			640 640hud3	0	180	170	45
+bucket1				640 640hud7	168	72	20	20
+bucket2				640 640hud7	188	72	20	20
+bucket3				640 640hud7	208	72	20	20
+bucket4				640 640hud7	168	92	20	20
+bucket5				640 640hud7	188	92	20	20
+bucket0				640 640hud7	208	92	20	20
+dmg_poison			640 640hud8	128	0	64	64
+dmg_bio				640 640hud8	128	0	64	64
+dmg_chem			640 640hud8	0	0	64	64
+dmg_drown			640 640hud8	64	0	64	64
+dmg_gas				640 640hud9	0	0	64	64
+dmg_cold			640 640hud9	64	0	64	64
+dmg_heat			640 640hud9	128	0	64	64
+dmg_rad				640 640hud9	192	0	64	64
+dmg_shock			640 640hud8	192	0	64	64
+number_0			640 640hud7	0	0	20	25
+number_1			640 640hud7	23	0	20	25
+number_2			640 640hud7	47	0	20	25
+number_3			640 640hud7	70	0	20	25
+number_4			640 640hud7	95	0	20	25
+number_5			640 640hud7	119	0	20	25
+number_6			640 640hud7	144	0	20	25
+number_7			640 640hud7	169	0	20	25
+number_8			640 640hud7	192	0	20	25
+number_9			640 640hud7	216	0	20	25
+divider				640 640hud7	240	0	2	40
+cross				640 640hud7	48	25	24	24
+dollar				640 640hud7	192	25	18	25
+minus				640 640hud7	210	25	13	23
+plus				640 640hud7	223	25	17	23
+c4				640 640hud7	0	0	1	1
+defuser				640 640hud7	0	0	1	1
+stopwatch			640 640hud7	144	72	24	24
+smallskull			640 640hud7	72	25	12	12
+smallc4				640 640hud7	84	25	12	12
+smallvip			640 640hud7	96	25	12	12
+buyzone				640 640hud7	0	0	1	1
+rescue				640 640hud7	64	148	32	32
+escape				640 640hud7	128	148	32	32
+vipsafety			640 640hud7	160	148	32	32
+suit_full			640 640hud7	0	25	24	24
+suit_empty			640 640hud7	24	25	24	24
+suithelmet_full			640 640hud7	0	124	24	24
+suithelmet_empty		640 640hud7	24	124	24	24
+//flash_full			640 640hud7	160	25	0	0
+//flash_empty			640 640hud7	112	25	0	0
+//flash_beam			640 640hud7	144	25	0	0
+//train_back			640 640hud5	170	0	72	72
+//train_stop			640 640hud5	170	72	72	72
+//train_forward1		640 640hud5	170	144	72	72
+//train_forward2		640 640hud6	170	0	72	72
+//train_forward3		640 640hud6	170	72	72	72
+//autoaim_c			640 crosshairs	96	0	24	24
+title_half			640 640hud4	0	226	256	30
+title_life			640 640hud5	0	226	220	30
+d_knife 	      		640 640hud1	192	0	48	16
+d_ak47          		640 640hud1	192	80	48	16
+d_awp          			640 640hud1	192	128	48	16
+d_deagle			640 640hud1	224  	16	32	16
+d_famas				640 640hud2	192	144	48	16
+d_fiveseven			640 640hud16	192	0	32	16
+d_flashbang			640 640hud1	192	192	48	16
+d_g3sg1				640 640hud1	192	144	48	16
+d_galil				640 640hud2	192	160	48	16
+d_glock18			640 640hud1	192	16	32	16
+d_grenade			640 640hud1	224	192	32	16
+d_m249				640 640hud1	192	160	48	16
+d_m3				640 640hud1	192	48	48	16
+d_m4a1				640 640hud1	192	96	48	16
+d_mp5navy			640 640hud1	192	64	32	16
+d_p228				640 640hud1	224	32	32	16
+d_p90				640 640hud1	192	176	48	16
+d_scout				640 640hud1	192	208	48	16
+d_sg550				640 640hud16	192	48	48	16
+d_sg552				640 640hud1	192	112	48	16
+d_ump45				640 640hud16	192	80	48	16
+d_usp				640 640hud1	192	32	32	16
+d_tmp				640 640hud1	224	64	32	16
+d_xm1014			640 640hud1	192	224	48	16
+d_skull				640 640hud1	224	240	32	16
+d_tracktrain			640 640hud1	192	240	32	16
+d_aug				640 640hud1 	148	240	44	16
+d_mac10				640 640hud1	109	240	34	16	
+d_elite				640 640hud1 	52	240	57	16
+d_headshot			640 640hud1 	0     	240   	36    	16
+item_battery			640 640hud2	176	0	44	44
+item_healthkit			640 640hud2	176	48	44	44
+item_longjump			640 640hud2	176	96	44	44
+radar				640 radar640	0	0	128	128
+hostage				640 640hud7	0	180	32	32
+bombticking1			640 640hud7	192	148	32	32
+bombticking			640 640hud7	224	148	32	32
+hostage4a			640 640hud7	32	180	32	32
+hostage3a			640 640hud7	64	180	32	32
+hostage2a			640 640hud7	96	180	32	32
+hostage1a			640 640hud7	128	180	32	32
+hostage4			640 640hud7	0	213	48	25
+hostage3			640 640hud7	48	213	48	25
+hostage2			640 640hud7	96	213	48	25
+hostage1			640 640hud7	144	213	48	25
+radaropaque			640 radaropaque640	0	0	128	128
+
+// ==============================
+// POSTURE
+// ==============================
+stand				640 hs_hud	32	0	64	64
+crouch				640 hs_hud	96	0	64	64
+prone				640 hs_hud	160	0	64	64
+
+// ==============================
+// HOLO RETICLES
+// ==============================
+laser				640 hs_hud	0	160	32	32
+reddot				640 hs_hud	32	160	32	32
+eotech				640 hs_hud	64	160	32	32
+circledot			640 hs_hud	96	160	32	32
+crossdot			640 hs_hud	128	160	32	32
+tdot				640 hs_hud	160	160	32	32
+laser_nvg			640 hs_hud	0	192	32	32
+remington			640 hs_hud	32	192	32	32
+transverse			640 hs_hud	64	192	32	32
+halfeo				640 hs_hud	96	192	32	32
+rangefinder			640 hs_hud	128	192	32	32
+svd				640 hs_hud	160	192	32	32
+
+// ==============================
+// ROLES
+// ==============================
+class_rfl			640 hs_hud	0	96	64	64
+class_med			640 hs_hud	64	96	64	64
+class_mrk			640 hs_hud	128	96	64	64
+class_sup			640 hs_hud	192	96	64	64
+
+// ==============================
+// THROW RANGE
+// ==============================
+
+0m				640 hs_hud	19	91	13	5
+1m				640 hs_hud	19	86	13	10
+2m				640 hs_hud	19	81	13	15
+3m				640 hs_hud	19	76	13	20
+4m				640 hs_hud	19	71	13	25
+5m				640 hs_hud	19	66	13	30
+6m				640 hs_hud	19	61	13	35
+7m				640 hs_hud	19	56	13	40
+8m				640 hs_hud	19	51	13	45
+9m				640 hs_hud	19	46	13	50
+10m				640 hs_hud	19	41	13	55
+11m				640 hs_hud	19	36	13	60
+12m				640 hs_hud	19	31	13	65
+13m				640 hs_hud	19	26	13	70
+14m				640 hs_hud	19	21	13	75
+15m				640 hs_hud	19	16	13	80
+
+// ==============================
+// CUSTOM MENUS 
+// ==============================
+
+0				640 hs_hud05	0	0	32	32
+1				640 hs_hud05	32	0	32	32
+2				640 hs_hud05	64	0	32	32
+3				640 hs_hud05	96	0	32	32
+4				640 hs_hud05	128	0	32	32
+5				640 hs_hud05	160	0	32	32
+6				640 hs_hud05	192	0	32	32
+7				640 hs_hud05	224	0	32	32
+x0				640 hs_hud05	0	32	32	32
+x1				640 hs_hud05	32	32	32	32
+x2				640 hs_hud05	64	32	32	32
+x3				640 hs_hud05	96	32	32	32
+x4				640 hs_hud05	128	32	32	32
+x5				640 hs_hud05	160	32	32	32
+x6				640 hs_hud05	192	32	32	32
+x7				640 hs_hud05	224	32	32	32
+
+// ==============================
+// ADDONS 
+// ==============================
+reflex1				640 hs_hud01	0	0	256	32
+scope				640 hs_hud01	0	32	256	32
+lam1				640 hs_hud01	0	64	256	32
+sil1				640 hs_hud01	0	96	256	32
+extramag1			640 hs_hud01	0	128	256	32
+longmag1			640 hs_hud01	0	160	256	32
+choke				640 hs_hud01	0	192	256	32
+hp1				640 hs_hud01	0	224	256	32
+xreflex1			640 hs_hud02	0	0	256	32
+xscope				640 hs_hud02	0	32	256	32
+xlam1				640 hs_hud02	0	64	256	32
+xsil1				640 hs_hud02	0	96	256	32
+xextramag1			640 hs_hud02	0	128	256	32
+xlongmag1			640 hs_hud02	0	160	256	32
+xchoke				640 hs_hud02	0	192	256	32
+xhp1				640 hs_hud02	0	224	256	32
+exit				640 hs_hud03	0	0	256	32
+reflex2				640 hs_hud03	0	32	256	32
+lam2				640 hs_hud03	0	64	256	32
+sil2				640 hs_hud03	0	96	256	32
+extramag2			640 hs_hud03	0	128	256	32
+longmag2			640 hs_hud03	0	160	256	32
+hp2				640 hs_hud03	0	192	256	32
+ap2				640 hs_hud03	0	224	256	32
+title_addons			640 hs_hud04	0	0	256	32
+xreflex2			640 hs_hud04	256	32	256	32
+xlam2				640 hs_hud04	256	64	256	32
+xsil2				640 hs_hud04	256	96	256	32
+xextramag2			640 hs_hud04	256	128	256	32
+xlongmag2			640 hs_hud04	256	160	256	32
+xhp2				640 hs_hud04	256	192	256	32
+xap2				640 hs_hud04	256	224	256	32
+ap1				640 hs_hud05	0	64	256	32
+slugs				640 hs_hud05	0	96	256	32
+xap1				640 hs_hud05	0	128	256	32
+xslugs				640 hs_hud05	0	160	256	32
+tracer				640 hs_hud05	0	192	256	32
+xtracer				640 hs_hud05	0	224	256	32
+addons_msg			640 hs_hud11	0	32	256	32
+
+// ==============================
+// ADDONS DESCRIPTIONS
+// ==============================
+extramag_desp			640 hs_hud07	0	86	256	85
+tracer_desp			640 hs_hud07	0	171	256	85
+reflex_desp			640 hs_hud08	0	0	256	85
+scope_desp			640 hs_hud08	0	85	256	85
+sil_desp			640 hs_hud08	0	170	256	85
+lam_desp			640 hs_hud09	0	0	256	85
+choke_desp			640 hs_hud09	0	85	256	85
+slugs_desp			640 hs_hud09	0	170	256	85
+ap_desp				640 hs_hud10	0	0	256	85
+hp_desp				640 hs_hud10	0	85	256	85
+longmag_desp			640 hs_hud10	0	170	256	85
+scope2_desp			640 hs_hud07	0	0	256	85
+
+// ==============================
+// ROLES MENU
+// ==============================
+rifleman			640 hs_hud06	0	0	256	32
+medic				640 hs_hud06	0	32	256	32
+marksman			640 hs_hud06	0	64	256	32
+support				640 hs_hud06	0	96	256	32
+xrifleman			640 hs_hud06	0	128	256	32
+xmedic				640 hs_hud06	0	160	256	32
+xmarksman			640 hs_hud06	0	192	256	32
+xsupport			640 hs_hud06	0	224	256	32
+title_class			640 hs_hud	0	224	256	32
+
+// ==============================
+// SPEC ITEMS
+// ==============================
+medshot				640 hs_hud	32	64	16	32
+medshots			640 hs_hud	32	64	32	32
+ammobag				640 hs_hud	64	64	16	32
+ammobags			640 hs_hud	64	64	32	32
+drone1				640 hs_hud	160	64	16	32	
+drone2				640 hs_hud	160	64	32	32	
+shield				640 hs_hud	224	64	32	32
+extravest			640 hs_hud11	217	0	32	32
+extravests			640 hs_hud11	217	32	32	32
+
+// ==============================
+// AMMO CHECK
+// ==============================
+ammohud1			640 hs_hud11	0	64	64	64
+ammohud2			640 hs_hud11	64	64	64	64
+ammohud3			640 hs_hud11	128	64	64	64
+ammohud4			640 hs_hud11	192	64	64	64
+ammohud5			640 hs_hud11	0	128	64	64
+ammohud6			640 hs_hud11	64	128	64	64
+ammohud7			640 hs_hud11	128	128	64	64
+ammohuda			640 hs_hud11	192	128	64	64
+ammohudh			640 hs_hud11	0	192	64	64
+ammohuds			640 hs_hud11	64	192	64	64
+
+// ==============================
+// HP/AP
+// ==============================
+hp				640 hs_hud	0	0	19	24
+hp_red				640 hs_hud	0	24	19	24
+ap				640 hs_hud	0	48	19	24
+ap_helm				640 hs_hud	0	72	19	24
+
+// ==============================
+// BODY DAMAGE
+// ==============================
+dmg_arms			640 hs_hud	224	0	32	64
+dmg_legs			640 hs_hud	192	160	32	64
+dmg_both			640 hs_hud	224	160	32	64
+
+// ==============================
+// WEAPON HUD
+// ==============================
+glock_s				640 hs_wpnhud01	0	0	128	64
+glock_inv			640 hs_wpnhud01	0	10	128	43
+fnp45_s				640 hs_wpnhud01	128	0	128	64
+fnp45_inv			640 hs_wpnhud01	128	10	128	43
+p226_s				640 hs_wpnhud01	0	64	128	64
+p226_inv			640 hs_wpnhud01	0	74	128	43
+sw629_s				640 hs_wpnhud01	128	64	128	64
+sw629_inv			640 hs_wpnhud01	128	74	128	43
+fiveseven_s			640 hs_wpnhud01	0	128	128	64
+fiveseven_inv			640 hs_wpnhud01	0	138	128	43
+spas12_s			640 hs_wpnhud01	128	128	128	64
+spas12_inv			640 hs_wpnhud01	128	138	128	43
+m1014_s				640 hs_wpnhud01	0	192	128	64
+m1014_inv			640 hs_wpnhud01	0	202	128	43
+kedr_s				640 hs_wpnhud01	128	192	128	64
+kedr_inv			640 hs_wpnhud01	128	202	128	43
+mp7_s				640 hs_wpnhud02	0	0	128	64
+mp7_inv				640 hs_wpnhud02	0	10	128	43
+mpx_s				640 hs_wpnhud02	128	0	128	64
+mpx_inv				640 hs_wpnhud02	128	10	128	43
+ump45_s				640 hs_wpnhud02	0	64	128	64
+ump45_inv			640 hs_wpnhud02	0	74	128	43
+p90_s				640 hs_wpnhud02	128	64	128	64
+p90_inv				640 hs_wpnhud02	128	74	128	43
+sr3m_s				640 hs_wpnhud02	0	128	128	64
+sr3m_inv			640 hs_wpnhud02	0	138	128	43
+hk417_s				640 hs_wpnhud02	128	128	128	64
+hk417_inv			640 hs_wpnhud02	128	138	128	43
+ak12_s				640 hs_wpnhud02	0	192	128	64
+ak12_inv			640 hs_wpnhud02	0	202	128	43
+diplomat_s			640 hs_wpnhud02	128	192	128	64
+diplomat_inv			640 hs_wpnhud02	128	202	128	43
+scarh_s				640 hs_wpnhud03	0	0	128	64
+scarh_inv			640 hs_wpnhud03	0	10	128	43
+aug_s				640 hs_wpnhud03	128	0	128	64
+aug_inv				640 hs_wpnhud03	128	10	128	43
+m40a6_s				640 hs_wpnhud03	0	64	128	64
+m40a6_inv			640 hs_wpnhud03	0	74	128	43
+svd_s				640 hs_wpnhud03	128	64	128	64
+svd_inv				640 hs_wpnhud03	128	74	128	43
+m14ebr_s			640 hs_wpnhud03	0	128	128	64
+m14ebr_inv			640 hs_wpnhud03	0	138	128	43
+awm_s				640 hs_wpnhud03	128	128	128	64
+awm_inv				640 hs_wpnhud03	128	138	128	43
+rpd_s				640 hs_wpnhud03	0	192	128	64
+rpd_inv				640 hs_wpnhud03	0	202	128	43
+knife_s				640 hs_wpnhud03	128	192	128	64
+knife_inv			640 hs_wpnhud03	128	202	128	43
+frag_s				640 hs_wpnhud04	0	0	128	64
+flash_s				640 hs_wpnhud04	128	0	128	64
+smoke_s				640 hs_wpnhud04	0	64	128	64
+c4_s				640 hs_wpnhud04	128	64	128	64
+flash				640 hs_hud11	0	0	24	60
+flash2				640 hs_hud11	24	0	24	60
+flash_empty			640 hs_hud11	48	0	24	60
+frag				640 hs_hud11 	72	0	24	60
+frag_empty			640 hs_hud11	96	0	24	60
+smoke				640 hs_hud11	120	0	24	60
+smoke_empty			640 hs_hud11	144	0	24	60
+
+// ==============================
+// MISC HUD
+// ==============================
+c4icon				640 hs_hud11	168	0	48	30
+defusekit			640 hs_hud11	168	30	48	30
+buyicon				640 640hud7	96	148	32	32
+defusing0			640 hs_hud11	192	192	64	64
+defusing1			640 hs_hud11	128	192	64	64
+q				640 hs_hud	129	64	17	25
+hitmark				640 hitmark	0	0	32	32
+mags1				640 hs_hud	130	88	16	8
+mags2				640 hs_hud	115	88	31	8
+mags3				640 hs_hud	96	88	50	8
+radio				640 hs_hud	93	64	37	24
+rescuezone			640 hs_hud11	217	0	39	51
+hostage				640 hs_hud	146	64	32	13

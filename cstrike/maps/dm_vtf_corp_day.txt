@@ -1,0 +1,18 @@
+DeathMatch: VTF Corporation
+
+*************** 2019 *********************
+Map by DVDS
+DeathMatch version for HellStrike
+(dds.counterstrike@gmail.com)
+Models & Textures: Valve Inc. & DVDS
+******************************************
+
+Counter-Terrorist: Eliminate the terrorists to 
+deactivate the threat.
+
+Terrorists: Eliminate the Counter-Terrorist force to 
+win the round.
+
+Good Luck!  
+
+(PRESS FIRE TO CONTINUE)                        

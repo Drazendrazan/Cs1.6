@@ -1,0 +1,35 @@
+// Plugin version: 1.5.0
+// Multi Language File version 1.1.0
+
+[en]
+FLARE_OFF = Flares are turned off!
+FLARE_USER_RIGHTS = You have no rights to use flares!
+FLARE_USER_NO_ACQUIRING = You can't acquire any new flares!
+FLARE_USER_NO_ACQUIRING_DEAD = Dead people can't hold physical items!
+FLARE_USER_NO_ACQUIRING_PAY = You were going to pay for that flare with what? A flare cost %i$!
+FLARE_USER_NO_AMMO = You were going to throw a flare without any?
+FLARE_USER_MAX_OWNING = You already own the maximum allowed flares per user of %i possible!
+FLARE_USER_ACQUIRED_GET = You recieved a new flare and now have %i out of %i possible!
+FLARE_USER_ACQUIRED_BUY = You bought a new flare for %i$ and now have %i out of %i possible!
+FLARE_USER_DEAD_USE = A dead person can't throw physical things!
+FLARE_USER_NONE = You can't throw what you don't have!
+FLARE_USER_MAX_ACTIVE = You can't exceed the limit of %i active flare(s) at the same time!
+FLARE_USER_IGNITE = You ignited a flare and have %i flare(s) left!
+FLARE_USER_BUYZONE = You can't reach the flare shop from outside the buy zone!
+FLARE_USER_BUYTIME = The flare shop closed when the buy time ran out!
+FLARE_SERVER_REPLACING = The server replaces grenades with flares!^nUse /flare_help for information!
+FLARE_SERVER_LIMIT_TOTAL_ACTIVE = The server's limit of maximum active flares is at its maximum of %i out of %i possible! 
+FLARE_SERVER_LIMIT_TOTAL_OWNED = The server's limit of maximum flares owned is at its maximum of %i out of %i possible!
+FLARE_SERVER_ADVERTISE = This server is running the plugin Flares!^nUse /flare_help for information!
+FLARE_MOTD_LINE1 = This server is running Flares version %s!
+FLARE_MOTD_LINE2 = Buy a flare using the commands: "buyflare" or "say /buyflare".
+FLARE_MOTD_LINE3 = Ignite a flare using the commands: "fireflare" or "say /fireflare".
+FLARE_MOTD_LINE4 = Server settings for flares
+FLARE_MOTD_LINE8 = You can acquire flares: 
+FLARE_MOTD_LINE9 = By getting a free with the buy command!
+FLARE_MOTD_LINE10 = By buying it for %i$ with the buy command!
+FLARE_MOTD_LINE11 = By buying nades as it replaces %s with flares!
+FLARE_MOTD_LINE12 = By (re)spawning you get %i flare(s) for free!
+FLARE_MOTD_LINE13 = At each (re)spawn: 
+FLARE_MOTD_LINE14 = You get %i flare(s) for free!
+

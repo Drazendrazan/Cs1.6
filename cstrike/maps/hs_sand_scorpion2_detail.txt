@@ -1,0 +1,16 @@
+//details for hs_sand_scorpion2
+
+Building02		detail/hellstrike/Door01	2.0	2.0
+Building09		detail/hellstrike/Concrete01	4.0	4.0
+hss_Sand01		detail/hellstrike/Ground01_d	0.25	0.25
+hsss_Concrete01		detail/hellstrike/Concrete01	2.0	2.0
+hsss_Barrel01		detail/hellstrike/Metal01	2.0	1.0
+hsss_Barrel02		detail/hellstrike/Metal01	1.0	1.0
+hsss_Door01		detail/hellstrike/Wood01	2.0	1.0
+hsss_Floor03		detail/hellstrike/Floor02	2.0	2.0
+hsss_Road01		detail/hellstrike/Ground01	4.0	4.0
+hsss_Wall02		detail/hellstrike/Concrete01	2.0	2.0
+hsss_Wall04		detail/hellstrike/Concrete01	4.0	4.0
+hsss_Wall07		detail/hellstrike/Concrete01	4.0	2.0
+hsss_Wall08		detail/hellstrike/Concrete01	4.0	4.0
+Wood01			detail/hellstrike/Wood01	4.0	4.0

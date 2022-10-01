@@ -1,0 +1,2 @@
+h_scoreboard_small		test/scoreboard.tga	0	47	216	48
+h_scoreboard_large		test/scoreboard.tga	0	95	255	48

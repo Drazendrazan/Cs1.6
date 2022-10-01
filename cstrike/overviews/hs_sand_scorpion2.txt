@@ -1,0 +1,14 @@
+// overview description file for hs_sand_scorpion2.bsp
+
+global 
+{
+	ZOOM	1.32
+	ORIGIN	1293.5	836	200
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/hs_sand_scorpion2.bmp"
+	HEIGHT	-529
+}

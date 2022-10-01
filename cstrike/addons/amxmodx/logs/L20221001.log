@@ -1,0 +1,6 @@
+L 10/01/2022 - 15:01:25: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 10/01/2022 - 15:01:25: -------- Mapchange to hs_metalworks --------
+L 10/01/2022 - 15:01:25: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 10/01/2022 - 15:01:25: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 10/01/2022 - 15:01:25: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 10/01/2022 - 15:01:25: [CSX] Could not load csstats file: cstrike\

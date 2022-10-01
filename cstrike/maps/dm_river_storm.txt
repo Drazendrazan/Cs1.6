@@ -1,0 +1,18 @@
+DeathMatch: River Storm
+
+*****************2019*******************
+Map by DVDS for HellStrike
+Models & Textures by Valve Inc.
+****************************************
+
+A group of terrorists wants to infiltrate the city 
+to make attacks and for this they want to penetrate 
+the river.
+
+Counter-Terrorist: Eliminate the terrorists to 
+deactivate the threat.
+
+Terrorists: Eliminate the Counter-Terrorist force to 
+win the round.
+
+(PRESS FIRE TO CONTINUE)                    
