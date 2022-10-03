@@ -14,3 +14,52 @@ L 10/01/2022 - 15:53:12: [CSTRIKE] sv global variable is not available
 L 10/01/2022 - 15:53:12: [CSX] Could not load csstats file: cstrike\
 L 10/01/2022 - 15:53:14: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
 L 10/01/2022 - 15:53:15: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 16:31:14: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 10/01/2022 - 16:31:14: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 10/01/2022 - 16:31:15: -------- Mapchange to csg_dust2 --------
+L 10/01/2022 - 16:31:15: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 10/01/2022 - 16:31:15: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 10/01/2022 - 16:31:15: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 10/01/2022 - 16:31:15: [CSTRIKE] sv global variable is not available
+L 10/01/2022 - 16:31:15: [CSX] Could not load csstats file: cstrike\
+L 10/01/2022 - 16:31:17: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 16:31:18: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:45:44: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 10/01/2022 - 20:45:44: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 10/01/2022 - 20:45:44: -------- Mapchange to fy_snow_pool --------
+L 10/01/2022 - 20:45:44: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 10/01/2022 - 20:45:44: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 10/01/2022 - 20:45:44: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 10/01/2022 - 20:45:44: [CSTRIKE] sv global variable is not available
+L 10/01/2022 - 20:45:44: [CSX] Could not load csstats file: cstrike\
+L 10/01/2022 - 20:45:47: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:45:48: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:45:52: -------- Mapchange to fy_snow_pool --------
+L 10/01/2022 - 20:45:53: [admin.amxx] Login: "Anderson<3><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:45:54: [admin.amxx] Login: "Anderson<3><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:46:17: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 10/01/2022 - 20:46:17: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 10/01/2022 - 20:46:17: -------- Mapchange to fy_snow_pool_classic --------
+L 10/01/2022 - 20:46:17: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 10/01/2022 - 20:46:17: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 10/01/2022 - 20:46:17: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 10/01/2022 - 20:46:17: [CSTRIKE] sv global variable is not available
+L 10/01/2022 - 20:46:17: [CSX] Could not load csstats file: cstrike\
+L 10/01/2022 - 20:46:19: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:46:20: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:46:23: -------- Mapchange to fy_snow_pool_classic --------
+L 10/01/2022 - 20:46:24: [admin.amxx] Login: "Anderson<3><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:46:25: [admin.amxx] Login: "Anderson<3><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:46:37: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 10/01/2022 - 20:46:37: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 10/01/2022 - 20:46:37: -------- Mapchange to fy_snow_pool --------
+L 10/01/2022 - 20:46:37: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 10/01/2022 - 20:46:37: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 10/01/2022 - 20:46:37: [CSTRIKE] AddEntityHashValue or AddEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 10/01/2022 - 20:46:37: [CSTRIKE] sv global variable is not available
+L 10/01/2022 - 20:46:37: [CSX] Could not load csstats file: cstrike\
+L 10/01/2022 - 20:46:39: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:46:39: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:55:34: -------- Mapchange to csg_dust2 --------
+L 10/01/2022 - 20:55:35: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/01/2022 - 20:55:36: [admin.amxx] Login: "Anderson<1><STEAM_0:0:865644094><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
